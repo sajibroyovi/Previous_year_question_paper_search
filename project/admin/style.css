@@ -1,0 +1,42 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#logout{
+	color:blue;
+	margin-top:10px;
+	float:right;
+	margin-right:30px;
+}
+#logout a{
+	text-decoration:none;
+	margin-right:10px;
+}
+#box{
+	margin-left:400px;
+	margin-top:100px;
+	color:black;
+	font-size:20px;
+	
+	
+}
+
+.admin{
+	margin-left:20px;
+	padding:10px;
+}
+button{
+	margin-top:25px;
+	width:200px;
+	height:40px;
+	font-size:30px;
+	margin-left:100px;
+	background:blue;
+	border-radius:5px;
+	
+	
+}
+button a{
+	text-decoration:none;
+	color:white;
+}

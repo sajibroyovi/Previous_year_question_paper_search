@@ -1,0 +1,47 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background:#66ff66;
+	
+}
+h1{
+	color:white;
+	margin-left:100px;
+}
+#box{
+	margin-left:400px;
+	margin-top:200px;
+	margin-right:400px;
+	padding:50px;
+	border:5px solid white;
+	border-radius:5px;
+}
+.login{
+	font-size:30px;
+	color:white;
+	font-family:arial;
+	padding:20px;
+	
+}
+input{
+	width:200px;
+	height:30px;
+	font-size:20px;
+}
+button{
+	margin-top:25px;
+	width:200px;
+	height:40px;
+	font-size:30px;
+	margin-left:100px;
+	background:blue;
+	border-radius:5px;
+	
+	
+}
+button a{
+	text-decoration:none;
+	color:white;
+}

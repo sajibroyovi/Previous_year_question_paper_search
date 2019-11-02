@@ -1,0 +1,35 @@
+
+#insert{
+	float:center;
+}
+h1{
+	text-align:center;
+}
+.position{
+	margin-left:600px;
+	margin-top:20px;
+}
+#logout{
+	color:blue;
+	margin-top:10px;
+	float:right;
+	margin-right:30px;
+}
+#logout a{
+	text-decoration:none;
+	margin-right:10px;
+}
+#wlcome{
+	margin-top:50px
+	}
+.search{
+	margin-left:500px;
+	margin-top:50px;
+	line-height:5px;
+	font-size:20px;
+	
+	}
+.search inpur[type="number"]{
+	width:200px;
+	height:30px;
+	}
